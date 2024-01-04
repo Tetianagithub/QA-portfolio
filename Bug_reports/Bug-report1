@@ -1,0 +1,10 @@
+Bug report id:1
+Priority: Hight
+Summary: A search button doesn't find appropriate results
+Steps to reproduce:
+1. Go to the website "name"
+2. Open the Product page
+3. Type any existing product's name on the right search field
+4. Hit "Search"
+Expected results: Appropriate result is found
+Actual result: No result is found
