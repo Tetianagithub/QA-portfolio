@@ -1,0 +1,8 @@
+Test case id:1
+Title: A search button should find appropriate results
+Steps:
+1. Go to the website "name"
+2. Open the Product page
+3. Type any existing product's name on the right search field
+4. Hit "Search"
+Expected results: Appropriate result is found
