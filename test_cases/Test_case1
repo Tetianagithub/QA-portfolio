@@ -3,6 +3,6 @@ Title: A search button should find appropriate results
 Steps:
 1. Go to the website "name"
 2. Open the Product page
-2. Type any existing product's name on the right search field
-3. Hit "Search"
+3. Type any existing product's name on the right search field
+4. Hit "Search"
 Expected results: Appropriate result is found
