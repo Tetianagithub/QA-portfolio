@@ -18,6 +18,6 @@ Steps to reproduce:
 2. Сlick on the Registration button from the top horizontal navigation bar
 3. Type "example@mail.com" in the email address field
 4. Fill in all other fields of the form with valid values
-4. Click on the Submit button
+5. Click on the Submit button
 Expected results: The registration is failed. An error message appears: "An account with the given email address already exists.
 Actual result: Registration is sucсessful. 
