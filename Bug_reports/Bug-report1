@@ -1,10 +1,23 @@
 Bug report id:1
-Priority: Hight
+Priority: Medium
 Summary: A search button doesn't find appropriate results
 Steps to reproduce:
-1. Go to the website "name"
-2. Open the Product page
+1. Go to the website "example"
+2. Click on the the Product page from the left-side vertical navigation.
 3. Type any existing product's name on the right search field
 4. Hit "Search"
 Expected results: Appropriate result is found
 Actual result: No result is found
+
+Bug report id:2
+Priority: High
+Summary: Sucсessful registration of a new user with email address from existing account
+Preconditions: Have an account with email adress "example@mail.com"
+Steps to reproduce:
+1. Go to the website "example"
+2. Сlick on the Registration button from the top horizontal navigation bar
+3. Type "example@mail.com" in the email address field
+4. Fill in all other fields of the form with valid values
+4. Click on the Submit button
+Expected results: The registration is failed. An error message appears: "An account with the given email address already exists.
+Actual result: Registration is sucсessful. 

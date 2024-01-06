@@ -2,7 +2,7 @@ Test case id:1
 Title: A search button should find appropriate results
 Steps:
 1. Go to the website "name"
-2. Click on the the Product page from the vertical left menu
+2. Click on the the Product page from the left-side vertical navigation.
 3. Type any existing product's name on the right search field
 4. Hit "Search"
 Expected results: Appropriate result is found
@@ -15,6 +15,6 @@ Preconditions: Have an account with "example" username
 Steps: 
 1. Go to the website "example.com"
 2. Click on the Register button from the top horizontal navigation bar
-3. Fill the form with "example"username from existing account
+3. Fill the form with "example" username from existing account
 4. Click on the Submit button
-Expected results: The registration is failed. An error message appears: "An account with the given username already exists.
+Expected results: The registration is failed. An error message appears: "An account with the given username already exists."
